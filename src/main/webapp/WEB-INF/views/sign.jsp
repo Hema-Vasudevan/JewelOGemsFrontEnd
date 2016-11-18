@@ -1,10 +1,11 @@
 <html>
 <head>
 <title> Online Ebooks Available </title>
-<link rel="stylesheet" href="style.css">
-<script src="jquery/jquery.min.js" type="text/javascript"> </script>
-<script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"  type="text/javascript"> </script> 
-<link href="bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+<link href="<c:url value="/resources/style.css" />" rel="stylesheet" type="text/css">
+<link href="<c:url value="/resources/css/bootstrap.min.css"/>" rel="stylesheet" type="text/css">
+<script src="<c:url value="/resources/jquery/jquery.min.js"/>" type="text/javascript"> </script>
+<script src="<c:url value="/resources/js/bootstrap.min.js"/>"  type="text/javascript"> </script> 
 <script type='text/javascript'>
 function formValidator()
 {

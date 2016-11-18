@@ -31,12 +31,12 @@
 <li class="active"> <a href="home"> Home </a> </li>
 <li> <a href="abt"> About Us </a> </li>
 <li class="dropdown">
-<a class="dropdown-toggle" data-toggle="dropdown">Category 
+<a href="" name="prod" class="dropdown-toggle" data-toggle="dropdown">Category 
 <b class="caret"> </b> </a>
 <ul class="dropdown-menu">
-<li> <a href="1.jsp"> Men </a> </li>
-<li> <a href="2.jsp"> Women</a> </li>
-<li> <a href="3.jsp"> Children </a> </li>
+<li> <a href="product?prod=men">  Men </a>  </li>
+<li> <a href="product?prod=women"> Women </a> </li>
+<li> <a href="product?prod=children"> Children </a> </li>
 </ul>
 </li>
  <li> <a href="sign"> Sign up</a> </li>

@@ -4,6 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link href="<c:url value="/resources/style.css" />" rel="stylesheet" type="text/css">
+<link href="<c:url value="/resources/css/bootstrap.min.css"/>" rel="stylesheet" type="text/css">
+<script src="<c:url value="/resources/jquery/jquery.min.js"/>" type="text/javascript"> </script>
+<script src="<c:url value="/resources/js/bootstrap.min.js"/>"  type="text/javascript"> </script> 
 <title>Insert title here</title>
 </head>
 <body>
